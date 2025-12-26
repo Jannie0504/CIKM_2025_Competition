@@ -1,6 +1,9 @@
 # CIKM 2025 Competition: Multilingual E-commerce Product Search Competition: Multilingual Query-Category and Query-Item Relevance
 
 ## Run the Code
+# CIKM 2025 Competition: Multilingual E-commerce Product Search Competition: Multilingual Query-Category and Query-Item Relevance
+
+## Run the Code
 
 ### Data
 
