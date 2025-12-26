@@ -20,6 +20,15 @@ After extraction, ensure the file structure looks like this:
 │   └── test_QI_en_clean_norm_up.txt
 ```
 
+### Model
+
+This project utilizes the `microsoft/deberta-v3-large` model from Hugging Face.
+You need to download the pre-trained model weights.
+
+- **Model Repository**: [microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large)
+
+If you are using the `transformers` library, the model will be downloaded automatically upon first execution. Alternatively, you can download it manually from the link above.
+
 ### Training
 
 ```shell
