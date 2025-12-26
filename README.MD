@@ -29,6 +29,8 @@ You can use the following commands to set up the model:
 ```bash
 # Create the folder and clone the model
 mkdir -p models
+
+- **Model Repository**: [microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large)
 git clone [https://huggingface.co/microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large) models/deberta-v3-large
 ```
 
