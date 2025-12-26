@@ -1,0 +1,16 @@
+{
+  "task_name": "QI",
+  "model_name_or_path": "models/deberta-v3-large",  
+  "output_dir": "./models/baseline_QI",
+  "eval_outputs": "./predictions/eval_QI.txt",
+  "outputs": "./predictions/submit_QI.txt",
+  "max_seq_length": 128,
+  "per_device_train_batch_size": 16,
+  "per_device_eval_batch_size": 16,
+  "do_train": false,
+  "do_eval": true,
+  "do_predict": true,
+  "train_file": "data/train_QI_en_clean_norm_up_sample.txt",
+  "validation_file": "data/val_QI_en_clean_norm_up_sample.txt",
+  "test_file": "data/test_QI_en_clean_norm_up.txt"
+}
