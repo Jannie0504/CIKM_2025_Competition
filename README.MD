@@ -1,6 +1,10 @@
 # CIKM 2025 Competition: Multilingual E-commerce Product Search Competition: Multilingual Query-Category and Query-Item Relevance
-- **CIKM 2025 Alibaba International Competition Workshop**: [Alibaba International Tech](https://alibaba-international-cikm2025.github.io/#intro)
-- **Our Paper**: [Improving Product Search Relevance with EAR-MP: A Solution for the CIKM 2025 AnalytiCup](https://arxiv.org/abs/2510.23018)
+
+### CIKM 2025 Alibaba International Competition Workshop
+**Improving Product Search Relevance with EAR-MP**
+
+- 📄 **Paper:** [Read Full Paper](논문_URL_여기에)
+- 🏆 **Competition:** [Visit Official Website](대회_URL_여기에)
 
 ## Run the Code
 
