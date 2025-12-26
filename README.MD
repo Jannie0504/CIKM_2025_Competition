@@ -3,8 +3,8 @@
 ### CIKM 2025 Alibaba International Competition Workshop
 **Improving Product Search Relevance with EAR-MP**
 
-- 📄 **Paper:** [Read Full Paper](논문_URL_여기에)
-- 🏆 **Competition:** [Visit Official Website](대회_URL_여기에)
+- 📄 **Paper:** [Read Full Paper](https://arxiv.org/abs/2510.23018)
+- 🏆 **Competition:** [Visit Official Website](https://alibaba-international-cikm2025.github.io/#intro)
 
 ## Run the Code
 
