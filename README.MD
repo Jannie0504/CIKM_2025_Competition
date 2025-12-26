@@ -3,8 +3,12 @@
 ## Run the Code
 
 ### Data
+Download the `data.zip` file and extract it to the project root directory.
+You can run the following command to unzip the file:
 
-Download the data and put it in the folder .data/
+```bash
+unzip data.zip
+
 ```tree
 .
 ├── data
