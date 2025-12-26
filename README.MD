@@ -21,13 +21,26 @@ After extraction, ensure the file structure looks like this:
 ```
 
 ### Model
+Create a `models` directory and download the pre-trained model into it.
+We use `microsoft/deberta-v3-large` for this project.
 
-This project utilizes the `microsoft/deberta-v3-large` model from Hugging Face.
-You need to download the pre-trained model weights.
+You can use the following commands to set up the model:
 
-- **Model Repository**: [microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large)
+```bash
+# Create the folder and clone the model
+mkdir -p models
+git clone [https://huggingface.co/microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large) models/deberta-v3-large
+```
 
-If you are using the `transformers` library, the model will be downloaded automatically upon first execution. Alternatively, you can download it manually from the link above.
+After downloading, the model structure should look like this:
+```tree
+.
+├── models
+│   └── deberta-v3-large
+│       ├── config.json
+│       ├── pytorch_model.bin
+│       └── ...
+```
 
 ### Training
 
