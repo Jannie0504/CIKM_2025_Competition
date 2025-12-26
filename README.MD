@@ -21,18 +21,10 @@ After extraction, ensure the file structure looks like this:
 ```
 
 ### Model
-Create a `models` directory and download the pre-trained model into it.
-We use `microsoft/deberta-v3-large` for this project.
-
-You can use the following commands to set up the model:
-
-```bash
-# Create the folder and clone the model
-mkdir -p models
+This project utilizes the microsoft/deberta-v3-large model from Hugging Face.
+Please create a models directory and download the pre-trained model weights into it.
 
 - **Model Repository**: [microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large)
-git clone [https://huggingface.co/microsoft/deberta-v3-large](https://huggingface.co/microsoft/deberta-v3-large) models/deberta-v3-large
-```
 
 After downloading, the model structure should look like this:
 ```tree
