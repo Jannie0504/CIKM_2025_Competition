@@ -8,7 +8,9 @@ You can run the following command to unzip the file:
 
 ```bash
 unzip data.zip
+```
 
+After extraction, ensure the file structure looks like this:
 ```tree
 .
 ├── data
